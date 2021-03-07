@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "name": "Kyle G",
+      "username": "Styles_File_Kyle",
+      "email": "Kyle_8mile@refractlabs.coms.com",
+      "loan": "123211"
+    },
+      {
+      "id": 2,
+      "name": "Henry G",
+      "username": "CompleHentry",
+      "email": "Then_Be_Henry@refractlabs.com",
+      "type" : "Secured",
+      "loan": "24324"
+    },
+    {
+      "id": 3,
+      "name": "Justin T",
+      "username": "Justin_Just_Won",
+      "email": "Thrust_And_Justin@refractlabs.comt",
+      "type" : "Secured",
+      "loan": "23423424"
+    },
+    {
+      "id": 4,
+      "name": "Connor K",
+      "username": "ConnorOnHer",
+      "email": "Connor_Upon_Her@refractlabs.com",
+      "type" : "Secured",
+        "loan": "656456"
+    },
+    {
+      "id": 5,
+      "name": "Matt Q",
+      "username": "Rat-a-Tat-Matt",
+      "email": "Non_Fat_Matt@refractlabs.com",
+      "type" : "Secured",
+      "loan": "2423456"
+    },
+    {
+      "id": 6,
+      "name": "Cory Z",
+      "username": "Corey_Amore",
+      "email": "Corey_not_Rory@refractlabs.como",
+      "type" : "Secured",
+      "loan": "123211"
+    },
+    {
+      "id": 7,
+      "name": "Evan B",
+      "username": "Evan-Essence",
+      "email": "ReverendEvan@refractlabs.com",
+      "type" : "Secured",
+      "loan": "645775"
+    },
+    {
+      "id": 8,
+      "name": "Mark P",
+      "username": "MarkNotNarc",
+      "email": "QuestionMark@refractlabs.com",
+      "type" : "Secured",
+        "loan": "464566"
+    },
+    {
+      "id": 9,
+      "name": "Luigi S",
+      "username": "Waluigi",
+      "email": "SqueegeeLuigi@refractlabs.com",
+      "type" : "Secured",
+      "loan": "656746"
+    },
+    {
+      "id": 10,
+      "name": "Ruari B",
+      "username": "RuariFerrari",
+      "email": "Ruari_Ferrari@refractlabs.com",
+      "type" : "Secured", 
+      "loan": "98087"
+    }
+  ]
